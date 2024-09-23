@@ -1,0 +1,5 @@
+# Test the product-service
+
+### Get list of products
+GET https://product-service-algonquin-pet-store-python-24.azurewebsites.net/products
+Accept: application/json
